@@ -10,7 +10,7 @@
 [Assignment 3](./Que3/index.html)
 
 ### 4) Write a program to create responsive web layout using Bootstrap.
-[Assignment 4]
+[Assignment 4](./Que4/index.html)
 
 ### 5) Write a program to create employment registration forms using bootstrap.
-[Assignment 5]
+[Assignment 5](./Que5/index.html)
